@@ -2,9 +2,9 @@
 
 ```
 # use yarn
-yarn add nginx-parser
+yarn add nginx-logging-parser
 # use npm
-npm install nginx-parser
+npm install nginx-logging-parser
 ```
 
 # Description
